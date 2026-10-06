@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.env
+.env.local
+server/data/
+*.log
+credentials*.json
+
+server/private/
+client_secret*.json
+*.token.json
+trackers/
+design-qa.md
+*.xlsx
+*.xls
